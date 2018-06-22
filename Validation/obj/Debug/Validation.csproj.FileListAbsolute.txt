@@ -1,0 +1,7 @@
+c:\users\pragna\source\repos\Validation\Validation\bin\Debug\Validation.exe.config
+c:\users\pragna\source\repos\Validation\Validation\bin\Debug\Validation.exe
+c:\users\pragna\source\repos\Validation\Validation\bin\Debug\Validation.pdb
+c:\users\pragna\source\repos\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+c:\users\pragna\source\repos\Validation\Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+c:\users\pragna\source\repos\Validation\Validation\obj\Debug\Validation.exe
+c:\users\pragna\source\repos\Validation\Validation\obj\Debug\Validation.pdb
